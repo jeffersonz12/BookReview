@@ -66,6 +66,7 @@ A project that allows teachers (admins) to create classes, assign books, grade r
 - Accurate Timestamps
 - More obvious grade results (student)
 - Fix Spoiler UI
+- Set first displayed review as user's, seperately?
 
 ***
 > I apologize for the lack of comments in my program, however, everything is appropriately named, and if you have even the slightest bit of reasoning, you should be easily able to identify everything. Thank you.
