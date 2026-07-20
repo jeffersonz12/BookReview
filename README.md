@@ -57,7 +57,7 @@ A project that allows teachers (admins) to create classes, assign books, grade r
 - Reports are stored in database even after resolved
 - Assignment and Grades are stored in database after class deletion
 
-***To Do
+### To Do
 - Password Reset
 - Implement Search Books
 - Fix Typing/Searching for a book reset textbox cursor location
