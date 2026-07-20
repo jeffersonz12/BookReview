@@ -53,6 +53,16 @@ A project that allows teachers (admins) to create classes, assign books, grade r
 - No password reset function
 - May be difficult to find user's reviews if there are too many
 - Can't search and add reviews to books not explicitly added to the catalog (The required function is already implemented, forgot to change ui)
+- Open Library Redirects to archive.org sometimes. Blocked
+- Reports are stored in database even after resolved
+- Assignment and Grades are stored in database after class deletion
+
+***To Do
+- Password Reset
+- Implement Search Books
+- Fix Typing/Searching for a book reset textbox cursor location
+- Clear reports from database after resolve
+- Clear assignments and grades from database after class deletion
 
 ***
 > I apologize for the lack of comments in my program, however, everything is appropriately named, and if you have even the slightest bit of reasoning, you should be easily able to identify everything. Thank you.
